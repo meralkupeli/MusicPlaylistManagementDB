@@ -1,0 +1,16 @@
+C:\Users\Melisa\Desktop\MusicPlaylistManagementDB\bin\Debug\MusicPlaylistManagementDB.exe.config
+C:\Users\Melisa\Desktop\MusicPlaylistManagementDB\bin\Debug\MusicPlaylistManagementDB.exe
+C:\Users\Melisa\Desktop\MusicPlaylistManagementDB\bin\Debug\MusicPlaylistManagementDB.pdb
+C:\Users\Melisa\Desktop\MusicPlaylistManagementDB\bin\Debug\Interop.WMPLib.dll
+C:\Users\Melisa\Desktop\MusicPlaylistManagementDB\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Melisa\Desktop\MusicPlaylistManagementDB\obj\Debug\MusicPlaylistManagementDB.csproj.AssemblyReference.cache
+C:\Users\Melisa\Desktop\MusicPlaylistManagementDB\obj\Debug\MusicPlaylistManagementDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\Melisa\Desktop\MusicPlaylistManagementDB\obj\Debug\Interop.WMPLib.dll
+C:\Users\Melisa\Desktop\MusicPlaylistManagementDB\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Melisa\Desktop\MusicPlaylistManagementDB\obj\Debug\MusicPlaylistManagementDB.csproj.ResolveComReference.cache
+C:\Users\Melisa\Desktop\MusicPlaylistManagementDB\obj\Debug\MusicPlaylistManagementDB.Properties.Resources.resources
+C:\Users\Melisa\Desktop\MusicPlaylistManagementDB\obj\Debug\MusicPlaylistManagementDB.csproj.GenerateResource.cache
+C:\Users\Melisa\Desktop\MusicPlaylistManagementDB\obj\Debug\MusicPlaylistManagementDB.csproj.CoreCompileInputs.cache
+C:\Users\Melisa\Desktop\MusicPlaylistManagementDB\obj\Debug\MusicPlaylistManagementDB.exe
+C:\Users\Melisa\Desktop\MusicPlaylistManagementDB\obj\Debug\MusicPlaylistManagementDB.pdb
+C:\Users\Melisa\Desktop\MusicPlaylistManagementDB\obj\Debug\MusicPlaylistManagementDB.Login.resources
